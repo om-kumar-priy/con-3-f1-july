@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cards{
+    width: 1276px;
+    height: 826px;
+    flex-shrink: 0;
+}
+.card{
+
+}
